@@ -31,11 +31,11 @@ public class MetaMining {
 			return;
 		}
 		try {
-			double nextPositions[][] = new double[p][n];
-			double pbPositions[][];
-
 			// Lê os parâmetros do usuário.
 			// ...
+
+			double nextPositions[][] = new double[p][n];
+			double pbPositions[][];
 
 			// Lê o arquivo de shift e multiplica por s.
 			// ...
